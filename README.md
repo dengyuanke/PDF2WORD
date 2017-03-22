@@ -1,7 +1,7 @@
 PDF2DOCX
 ===================
 
-##Resumen
+## Resumen
 
 Esta aplicación JAVA sirve para la transformacion de un documento PDF en un documento WORD con el PDF inyectado dentro. Esta transformacion convierte cada pagina del PDF a una imagen y después incrusta esta dentro del documento WORD.
 
@@ -20,7 +20,7 @@ The use of this aplication came from the requeriment of inyecting research paper
 ----------
 
 
-Manual
+## Manual
 -------------
 
 - Descargar aplicacion precompilada ***jar***  desde la carpeta de *pdf2word* en este repositorio y ejecutar el siquiente comando.
