@@ -1,7 +1,7 @@
 /**
  * 
  */
-package word2pdf;
+package pdf2word;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
