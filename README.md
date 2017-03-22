@@ -22,7 +22,7 @@ The use of this aplication came from the requeriment of inyecting research paper
 Manual
 -------------
 
-- Descargar aplicacion precompilada ***jar***  desde la carpeta de built en este repositorio y ejecutar el siquiente comando.
-- Download compiled aplication ***jar*** from built folder in this repository and run this comand.
+- Descargar aplicacion precompilada ***jar***  desde la carpeta de *target* en este repositorio y ejecutar el siquiente comando.
+- Download compiled aplication ***jar*** from *target* folder in this repository and run this comand.
 
 > **java -jar** *"nombre del archivo"*
